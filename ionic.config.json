@@ -1,5 +1,7 @@
 {
   "name": "Safety Cruiser",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
